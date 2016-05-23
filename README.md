@@ -2,7 +2,7 @@
 
 [英文文档地址](http://zookeeper.apache.org/doc/r3.4.6/zookeeperProgrammers.html)
 
-[中文翻译地址](https://github.com/sundiontheway/zookeeper-guide-cn/v1/zkguide.md)
+[中文翻译地址](https://github.com/sundiontheway/zookeeper-guide-cn/blob/master/v1/zkguide.md)
 
 __贡献者__：   
 [孙迪](http://www.v2steve.com)
