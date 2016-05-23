@@ -1,8 +1,3 @@
-title: ZooKeeper 帮助手册个人翻译版
-date: 2014-10-14
-tags: zookeeper
----
-
 原文地址：
 <http://zookeeper.apache.org/doc/r3.4.6/zookeeperProgrammers.html>  
 翻译：$teve  
