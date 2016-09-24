@@ -5,7 +5,7 @@
 [中文翻译地址](https://github.com/sundiontheway/zookeeper-guide-cn/blob/master/v1/zkguide.md)
 
 __贡献者__：   
-[孙迪](http://www.v2steve.com)
+[$teve](https://github.com/sundiontheway)
 
 
 ## 目录
